@@ -7,3 +7,5 @@ Go Essential Training course from LinkedIn Learning
 004-fizz-buzz
 
 006-even-ended-number
+
+008-max-value
