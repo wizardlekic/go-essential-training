@@ -9,3 +9,5 @@ Go Essential Training course from LinkedIn Learning
 006-even-ended-number
 
 008-max-value
+
+010-word-text-count
